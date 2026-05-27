@@ -1,0 +1,12 @@
+ALFA : Romero Valentin
+
+BETA : Ramiro Perez
+
+GAMMA : Keumurdji Pablo 
+
+
+a-¿ALFA ve los datos que cargaron los demás en su repositorio?
+Si puedo ver las modificaciones y actualizaciones.
+
+b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
+Si se logra ver lo modificado y agregado.
