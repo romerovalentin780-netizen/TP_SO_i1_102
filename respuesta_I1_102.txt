@@ -18,3 +18,4 @@ d-¿De qué forma se comunicaron ustedes?
 Por discord y commits
 
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+con commits 
